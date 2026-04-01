@@ -1,4 +1,4 @@
-![Texto alternativo](github_presentacion.png)
+![Texto alternativo](github%20presentacion.png)
 
 # Hola 👋
 
