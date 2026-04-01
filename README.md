@@ -1,4 +1,4 @@
-![Texto alternativo](URL_o_ruta_de_la_imagen)
+![Texto alternativo](github_presentacion.png)
 
 # Hola 👋
 
