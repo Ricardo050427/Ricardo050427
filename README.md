@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hola 👋
 
-<!--
-**Ricardo050427/Ricardo050427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Ricardo y soy estudiante de la carrera de ciencias de la computación en la Universidad de Sonora y esto es un presentacion a mi GitHub:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+- 🎓 Estudio: Ciencias de la computación / Universidad de Sonora
+- 💻 Intereses: IA, Base de datps, Backend, etc.
+- 📫 Contacto: hernandezastorgafrancisco@gmail.com
+
+---
+
+## 🛠️ Tecnologías y herramientas
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+
+---
+
+## 📊 Estadísticas
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ricardo050427&theme=dark&locale=es)](https://git.io/streak-stats)
+
+
+---
+
+> "Mente sobre materia"
