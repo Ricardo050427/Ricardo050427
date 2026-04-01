@@ -1,3 +1,5 @@
+![Texto alternativo](URL_o_ruta_de_la_imagen)
+
 # Hola 👋
 
 Me llamo Ricardo y soy estudiante de la carrera de ciencias de la computación en la Universidad de Sonora y esto es un presentacion a mi GitHub:
@@ -6,7 +8,7 @@ Me llamo Ricardo y soy estudiante de la carrera de ciencias de la computación e
 
 ## 🧠 Sobre mí
 - 🎓 Estudio: Ciencias de la computación / Universidad de Sonora
-- 💻 Intereses: IA, Base de datps, Backend, etc.
+- 💻 Intereses: IA, Base de datos, Backend, etc.
 - 📫 Contacto: hernandezastorgafrancisco@gmail.com
 
 ---
