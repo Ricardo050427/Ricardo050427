@@ -2,7 +2,7 @@
 
 # Hola 👋
 
-Me llamo Ricardo y soy estudiante de la carrera de ciencias de la computación en la Universidad de Sonora y esto es un presentacion a mi GitHub:
+Me llamo Ricardo y soy estudiante de la carrera de ciencias de la computación en la Universidad de Sonora y esto es una presentacion a mi GitHub:
 
 ---
 
